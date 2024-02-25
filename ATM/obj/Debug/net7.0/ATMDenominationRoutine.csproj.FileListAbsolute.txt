@@ -1,0 +1,14 @@
+T:\Black\Projetos individuais\RiaATMDenominationRoutine\ATMDenominationRoutine\bin\Debug\net7.0\ATMDenominationRoutine.exe
+T:\Black\Projetos individuais\RiaATMDenominationRoutine\ATMDenominationRoutine\bin\Debug\net7.0\ATMDenominationRoutine.deps.json
+T:\Black\Projetos individuais\RiaATMDenominationRoutine\ATMDenominationRoutine\bin\Debug\net7.0\ATMDenominationRoutine.runtimeconfig.json
+T:\Black\Projetos individuais\RiaATMDenominationRoutine\ATMDenominationRoutine\bin\Debug\net7.0\ATMDenominationRoutine.dll
+T:\Black\Projetos individuais\RiaATMDenominationRoutine\ATMDenominationRoutine\bin\Debug\net7.0\ATMDenominationRoutine.pdb
+T:\Black\Projetos individuais\RiaATMDenominationRoutine\ATMDenominationRoutine\obj\Debug\net7.0\ATMDenominationRoutine.GeneratedMSBuildEditorConfig.editorconfig
+T:\Black\Projetos individuais\RiaATMDenominationRoutine\ATMDenominationRoutine\obj\Debug\net7.0\ATMDenominationRoutine.AssemblyInfoInputs.cache
+T:\Black\Projetos individuais\RiaATMDenominationRoutine\ATMDenominationRoutine\obj\Debug\net7.0\ATMDenominationRoutine.AssemblyInfo.cs
+T:\Black\Projetos individuais\RiaATMDenominationRoutine\ATMDenominationRoutine\obj\Debug\net7.0\ATMDenominationRoutine.csproj.CoreCompileInputs.cache
+T:\Black\Projetos individuais\RiaATMDenominationRoutine\ATMDenominationRoutine\obj\Debug\net7.0\ATMDenominationRoutine.dll
+T:\Black\Projetos individuais\RiaATMDenominationRoutine\ATMDenominationRoutine\obj\Debug\net7.0\refint\ATMDenominationRoutine.dll
+T:\Black\Projetos individuais\RiaATMDenominationRoutine\ATMDenominationRoutine\obj\Debug\net7.0\ATMDenominationRoutine.pdb
+T:\Black\Projetos individuais\RiaATMDenominationRoutine\ATMDenominationRoutine\obj\Debug\net7.0\ATMDenominationRoutine.genruntimeconfig.cache
+T:\Black\Projetos individuais\RiaATMDenominationRoutine\ATMDenominationRoutine\obj\Debug\net7.0\ref\ATMDenominationRoutine.dll
