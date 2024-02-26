@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RESTServer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c1e27ce31e3a2f6f94e63d607d4b3d7bc342a8c1")]
 [assembly: System.Reflection.AssemblyProductAttribute("RESTServer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RESTServer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
